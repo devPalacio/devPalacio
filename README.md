@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Jay Palacio
+<img src="/160112-G-GV559-576.jpeg" width=200>
+
 
 For 12 years, I served the US Coast Guard as a Flight Mechanic, Primary Quality Assurance Supervisor, and H-60 Helicopter Mechanic.
 
