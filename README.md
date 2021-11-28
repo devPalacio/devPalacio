@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Jay Palacio
+
+For 12 years, I served the US Coast Guard as a Flight Mechanic, Primary Quality Assurance Supervisor, and H-60 Helicopter Mechanic.
 
 <!--
 **devPalacio/devPalacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
