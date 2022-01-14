@@ -3,7 +3,9 @@
 [![devPalacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devPalacio&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-For 12 years, I served the US Coast Guard as a Helicopter Mechanic, now I'm utilizing my troubleshooting skills for the world of software development.
+For 12 years, I served in the US Coast Guard as a 🚁 Helicopter Mechanic / Avionics Tech, now I'm utilizing my troubleshooting skills for the world of software development.
+
+I enjoy learning about the principals of good software development and JavaScript.
 
 <!--
 **devPalacio/devPalacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
