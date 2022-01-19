@@ -5,7 +5,7 @@
 
 For 12 years, I served in the US Coast Guard as a 🚁 Helicopter Mechanic / Avionics Tech. These days I dedicate myself to Javascript.
 
-If you want to see what I'm learning about, check out my [blog](https://devpalacio.github.io/blog/blog/)
+If you want to see what I'm learning about, check out my **[blog](https://devpalacio.github.io/blog/blog/)**
 
 <!--
 **devPalacio/devPalacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
