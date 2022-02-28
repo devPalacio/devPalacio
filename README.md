@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jay Palacio
 <!--- <img src="/160112-G-GV559-576.jpeg" height=195> -->
-[![devPalacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devPalacio&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![devPalacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devPalacio&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 For 12 years, I served in the US Coast Guard as a 🚁 Helicopter Mechanic / Avionics Tech. These days I dedicate myself to Javascript.
