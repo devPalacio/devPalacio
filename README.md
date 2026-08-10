@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Jay Palacio
-<!--- <img src="/160112-G-GV559-576.jpeg" height=195> -->
-[![devPalacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devPalacio&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm part of the Mobile Foundation team working at Dropbox, keeping the build alive. Currently working with Android/Kotlin/Java.
+I'm part of the Mobile Foundation team working at Dropbox, keeping the build alive. Currently working with Android/Kotlin/Java/Python.
 
 <!--
 **devPalacio/devPalacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
