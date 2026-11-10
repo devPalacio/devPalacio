@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Jay Palacio
 
-I'm part of the Mobile Foundation team working at Dropbox, keeping the build alive. Currently working with Android/Kotlin/Java/Python.
-
 <!--
 **devPalacio/devPalacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
